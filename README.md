@@ -29,6 +29,8 @@ Create a .env file in the root directory based on the sample below.
 npm run dev
 The API will be available at http://localhost:3003/api.
 
+## 📁 Project Structure
+```md
 ├── controllers/       # Express route handlers
 │   ├── blogs.js
 │   ├── users.js
@@ -55,6 +57,7 @@ Environment Variables
 Create a .env file at the project root with the following:
 
 the code env
+```
 ## Environment Variables
 
 Create a `.env` file in the project root with the following keys:
